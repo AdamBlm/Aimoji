@@ -1,0 +1,2 @@
+# Aimoji
+An Emoji generator
