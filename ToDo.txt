@@ -1,0 +1,6 @@
+1. Do the JSON request
+2. Download the emojis normalized and put a white background
+3. Get Flux1.dev running
+4. Use SimpleTuner to finetune
+5. Use a LLM to prompt correctly the finetuned model
+6. Combine everything and upscale to 800x800
