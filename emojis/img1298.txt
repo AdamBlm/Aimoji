@@ -1,0 +1,1 @@
+open mailbox with lowered flag emoji
